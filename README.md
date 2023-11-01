@@ -26,7 +26,7 @@ The Fall Fest here includes a series of workshops starting Oct 23 and ends with 
 ## Hackathon
 - Starting 3 Nov 2023 - 11:00 AM and ending on 5 Nov 2023 - 11:00 AM
 - https://forms.office.com/r/cYEUBJTBhN
-- Location - Hybrid: ET 115 and Remote.
+- Location - Hybrid: ET 109 and Remote.
 - Once registered an email with the link to all the challenges will be forwarded at 11:00 AM Nov 3, 2023.
 - Submission: zip all the code files and send them to venkp01@pfw.edu
 - the winning team will get swags from IBM.
@@ -34,6 +34,13 @@ The Fall Fest here includes a series of workshops starting Oct 23 and ends with 
 
 ## Hackathon Theme
 - Three labs provided by IBM Quantum and the first completing team will be awarded as winners
+- There will be an additional 10-minute presentation for Masters level participants
+- Presentation has to be about explaining any domains of quantum computing; see sample topics below:
+- - different types of quantum hardware like superconducting qubits, trapped ions, and photonic qubits
+  - quantum key distribution (QKD)
+  - Quantum Algorithms
+  - Find recent developments from blogs like: https://research.ibm.com/quantum-computing, https://aws.amazon.com/blogs/quantum-computing, https://blog.google , etc..
+- Presentation must be min. of 10 slides, and explain the topic well and include why the chosen topic is important.
 - 3 people per team max.
 
 
