@@ -17,14 +17,14 @@ The Fall Fest here includes a series of workshops starting Oct 23 and ends with 
 
 ## Workshops
 - Workshop on Intro to Quantum computing and its application
-- Location: ET 115, 12:00 PM - 1:00 PM
+- Location: ET 109, 11:00 AM - 12:00 PM
 - Date: 2 Nov 2023 
 
 ## Learn more about Quantum Computing
 - Please join [IBM Quantum Explorers](http://qisk.it/quantum-explorers), a self-paced gamified quantum learning journey
 - read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
 ## Hackathon
-- Starting 3 Nov 2023 - 12:00 PM and ending on 4 Nov 2023 - 12:00 PM
+- Starting 3 Nov 2023 - 11:00 AM and ending on 5 Nov 2023 - 11:00 AM
 - https://forms.office.com/r/cYEUBJTBhN
 - Location - Hybrid: ET 115 and Remote.
 - Submission: zip all the code files and send them to venkp01@pfw.edu
