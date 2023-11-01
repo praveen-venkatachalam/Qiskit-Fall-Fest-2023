@@ -27,13 +27,14 @@ The Fall Fest here includes a series of workshops starting Oct 23 and ends with 
 - Starting 3 Nov 2023 - 11:00 AM and ending on 5 Nov 2023 - 11:00 AM
 - https://forms.office.com/r/cYEUBJTBhN
 - Location - Hybrid: ET 115 and Remote.
+- Once registered an email with the link to all the challenges will be forwarded at 11:00 AM Nov 3, 2023.
 - Submission: zip all the code files and send them to venkp01@pfw.edu
-- the first-place team will get the IBM Swags.
+- the winning team will get swags from IBM.
 - participating teams will get certificates.
 
 ## Hackathon Theme
 - Three labs provided by IBM Quantum and the first completing team will be awarded as winners
-- 2 people per team max.
+- 3 people per team max.
 
 
 
