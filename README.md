@@ -24,7 +24,7 @@ The [Qiskit Fall Fest] is a collection of quantum computing events on college ca
 ## Hackathon
 - Starting 3 Nov 2023 - 11:00 AM and ending on 5 Nov 2023 - 11:00 AM
 - https://forms.office.com/r/cYEUBJTBhN
-- Location - Hybrid: ET 109 and Remote.
+- Location - Hybrid: ET 109 or Remote.
 - Once registered an email with the link to all the challenges will be forwarded at 11:00 AM Nov 3, 2023.
 - Submission: zip all the code files and send them to venkp01@pfw.edu
 - the winning team will get swags from IBM.
