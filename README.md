@@ -41,6 +41,15 @@ The [Qiskit Fall Fest] is a collection of quantum computing events on college ca
 - Presentation must be min. of 10 slides, and explain the topic well and include why the chosen topic is important.
 - 3 people per team max.
 
+# Winners of Hackathon
+
+## Undergraduate category
+- Noah Nguyen
+
+## Graduate category
+- [Ankitha Sudarshan](https://github.com/ankithasudarshan/)
+- Anuradha Konatham
+- Harshitaa Anand Singh
 
 
 
